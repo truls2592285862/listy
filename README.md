@@ -1,8 +1,2 @@
 # listy
-Hope you find this starter useful, it is a bare-bone example to help you get started quickly.
-
-Would love to hear what you will build using it.
-
-If you find bugs or have suggestions feel free to create issues.
-
-Thank you and stay awesome.
+Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
