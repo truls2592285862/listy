@@ -11,12 +11,9 @@ kernel.core:
   - dotnet/src/SemanticKernel/**/*
   - dotnet/src/SemanticKernel.Abstractions/**/*
   - dotnet/src/SemanticKernel.MetaPackage/**/*
-
 # Add 'python' label to any change within the 'python' directory
 python:
   - python/**/*
-
-# Add 'samples' label to any change within the 'samples' directory
 samples:
   - samples/**/*
 
